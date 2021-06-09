@@ -1,0 +1,13 @@
+
+# Ticha Project snippets for TEI encoding in XML (.xml) files
+
+'.text.xml':
+  'Ticha Spelling':
+    'prefix': 'orig'
+    'body': '<choice><orig>${1:originalWord}</orig><reg type="${3:spanish}">${2:normalizedWord}</reg></choice>$4'
+  'Ticha Abbreviation':
+    'prefix': 'abbr'
+    'body': '<choice><abbr>${1:abbreviation}</abbr><expan>${2:expansion}</expan></choice>$3'
+  'Ticha Foreign':
+    'prefix': 'foreign'
+    'body': '<foreign xml:lang="${2:zap}">${1:foreignWord}</foreign>$3'

@@ -1,0 +1,16 @@
+{
+  "name": "ticha-atom-snippets",
+  "version": "0.0.0",
+  "description": "Atom snippets to help with TEI encoding for the Ticha Project",
+  "keywords": [
+    "Ticha",
+    "XML",
+    "TEI",
+  ],
+  "repository": "https://github.com/qubist/ticha-atom-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
