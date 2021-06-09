@@ -37,6 +37,19 @@ Type a snippet's "prefix" (or enough of it that a tooltip comes up showing the g
 
 Bold sections of text in the Template column are sections of the snippet accessible by pressing tab.
 
+### Usage example
+
+![Example of a snippet being used](./snippets_example.gif)
+
+Explanation of symbols in the gif:
+
+| Symbol | Key     |
+|--------|---------|
+| ⎋      | Escape  |
+| ⇥      | Tab     |
+| ⌘      | Command |
+| ⇧      | Shift   |
+
 ## Contributing
 
 PRs accepted. Also, if you're on the Ticha team and you want me to add a new snippet, let's talk!
