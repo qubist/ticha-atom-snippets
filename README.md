@@ -10,9 +10,10 @@ Atom snippets to help with TEI encoding for the [Ticha Project](https://ticha.ha
 
 ## Install
 
-### From Atom
+### From inside Atom
 
-Use the [Atom UI](https://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) to search for and install the package.
+1. Use the [Atom UI](https://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) to search for and install the package.
+2. Restart Atom.
 
 ### From the command line
 
