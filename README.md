@@ -31,9 +31,9 @@ Type a snippet's "prefix" (or enough of it that a tooltip comes up showing the g
 
 | Snippet      | Prefix    | Template                                                                                        |
 |--------------|-----------|-------------------------------------------------------------------------------------------------|
-| Spelling     | `orig`    | ＜choice＞＜orig＞**originalWord**＜/orig＞＜reg type="**spanish**"＞**regularizedWord**＜/reg＞＜/choice＞ |
-| Abbreviation | `abbr`    | ＜choice＞＜abbr＞**abbreviation**＜/abbr＞＜expan＞**expansion**＜/expan＞＜/choice＞                      |
-| Foreign      | `foreign` | ＜foreign xml:lang="**zap**"＞**foreignWord**＜/foreign＞                                           |
+| Spelling     | `orig`    | &lt;choice&gt;&lt;orig&gt;**originalWord**&lt;/orig&gt;&lt;reg type="**spanish**"&gt;**regularizedWord**&lt;/reg&gt;&lt;/choice&gt; |
+| Abbreviation | `abbr`    | &lt;choice&gt;&lt;abbr&gt;**abbreviation**&lt;/abbr&gt;&lt;expan&gt;**expansion**&lt;/expan&gt;&lt;/choice&gt;                      |
+| Foreign      | `foreign` | &lt;foreign xml:lang="**zap**"&gt;**foreignWord**&lt;/foreign&gt;                                           |
 
 Bold sections of text in the Template column are sections of the snippet accessible by pressing tab.
 
