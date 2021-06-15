@@ -39,7 +39,7 @@ Bold sections of text in the Template column are sections of the snippet accessi
 
 ### Usage example
 
-![Example of a snippet being used](./snippets_example.gif)
+![Example of a snippet being used](https://raw.githubusercontent.com/qubist/ticha-atom-snippets/master/snippets_example.gif)
 
 Explanation of symbols in the gif:
 
